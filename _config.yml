@@ -1,0 +1,28 @@
+name: KC Sledd
+favicon: null
+layout_spectrum: 0.6467702607624233
+typography_spectrum: 0.4496409590356052
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.28280073031783104
+  lightness: 0.5678312287200242
+  saturation: 0.9508719588629901
+  rhythmicContrast: 0.3455091342329979
+purpose: []
